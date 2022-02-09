@@ -22,4 +22,6 @@
   ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
   <a href="https://github.com/gsdaier/cardapio-terraco"><img style="height: 100px;" src="https://files.menudino.com/cardapios/12235/logo.png">
+  <a href="https://github.com/gsdaier/personal-website"><img style="height: 100px;" src="gsdaier.png">
 </div>
+
