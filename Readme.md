@@ -22,6 +22,6 @@
 ### My projects
   <a href="https://github.com/gsdaier/cardapio-terraco"><img style="height: 100px;" src="https://files.menudino.com/cardapios/12235/logo.png">
   <a href="https://github.com/gsdaier/personal-website"><img style="height: 100px;" src="gsdaier.png">
-  <a href="https://githut.com/gsdaier/personal-website"><img style="height: 100px;" src="">
+  <a href="https://github.com/gsdaier/Landing-Page-E-commerce"><img style="height: 100px;" src="https://img.myloview.com.br/posters/landing-page-icon-700-223268037.jpg">
 </div>
 
