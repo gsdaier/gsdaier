@@ -33,4 +33,4 @@
 </div>
 
     
-#### “Don't be a programmer” , be a problem solver. And be a programmer to solve the problems. “Be a programmer”
+#### “Don't be a programmer”, be a problem solver. And be a programmer to solve the problems. “Be a programmer”
