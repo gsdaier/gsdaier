@@ -32,3 +32,5 @@
   <a href="https://github.com/gsdaier/cardapio-terraco"><img style="height: 100px;" src="https://files.menudino.com/cardapios/12235/logo.png">
 </div>
 
+    
+#### “Don't be a programmer” , be a problem solver. And be a programmer to solve the problems. “Be a programmer”
