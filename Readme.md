@@ -22,9 +22,10 @@
   <a href="https://instagram.com/g_daier" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/gsdaier" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-daier-708a64228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-### My projects
+</div>
   
+### My projects
+<div>
   <a href="https://github.com/gsdaier/personal-website"><img style="height: 100px;" src="gsdaier.png">
   <a href="https://github.com/gsdaier/Landing-Page-E-commerce"><img style="height: 100px;" src="https://img.myloview.com.br/posters/landing-page-icon-700-223268037.jpg">
   <a href="https://github.com/gsdaier/Spotify-Clone"><img style="height: 100px;" src="https://pipedream.com/s.v0/app_mqeh75/logo/orig">
