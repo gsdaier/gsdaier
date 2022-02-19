@@ -24,9 +24,10 @@
   <a href="https://www.linkedin.com/in/gustavo-daier-708a64228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ### My projects
-  <a href="https://github.com/gsdaier/cardapio-terraco"><img style="height: 100px;" src="https://files.menudino.com/cardapios/12235/logo.png">
+  
   <a href="https://github.com/gsdaier/personal-website"><img style="height: 100px;" src="gsdaier.png">
   <a href="https://github.com/gsdaier/Landing-Page-E-commerce"><img style="height: 100px;" src="https://img.myloview.com.br/posters/landing-page-icon-700-223268037.jpg">
   <a href="https://github.com/gsdaier/Spotify-Clone"><img style="height: 100px;" src="https://pipedream.com/s.v0/app_mqeh75/logo/orig">
+  <a href="https://github.com/gsdaier/cardapio-terraco"><img style="height: 100px;" src="https://files.menudino.com/cardapios/12235/logo.png">
 </div>
 
