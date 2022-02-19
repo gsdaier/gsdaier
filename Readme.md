@@ -10,6 +10,10 @@
   <img align="center" alt="gsdaier-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="gsdaier-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gsdaier-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="gsdaier-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="gsdaier-angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="gsdaier-angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  
 </div>
   
   ##
@@ -23,5 +27,6 @@
   <a href="https://github.com/gsdaier/cardapio-terraco"><img style="height: 100px;" src="https://files.menudino.com/cardapios/12235/logo.png">
   <a href="https://github.com/gsdaier/personal-website"><img style="height: 100px;" src="gsdaier.png">
   <a href="https://github.com/gsdaier/Landing-Page-E-commerce"><img style="height: 100px;" src="https://img.myloview.com.br/posters/landing-page-icon-700-223268037.jpg">
+  <a href="https://github.com/gsdaier/Spotify-Clone"><img style="height: 100px;" src="https://pipedream.com/s.v0/app_mqeh75/logo/orig">
 </div>
 
