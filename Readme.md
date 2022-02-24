@@ -25,7 +25,7 @@
 
 </div>
   
-### My projects
+  <h2> My projects </h2>
 <div>
   <a href="https://github.com/gsdaier/personal-website"><img style="height: 100px;" src="gsdaier.png">
   <a href="https://github.com/gsdaier/Monogram-Copy"><img style="height: 100px;" src="logoreadme.png">  
@@ -35,4 +35,4 @@
 </div>
 
     
-#### “Don't be a programmer”, be a problem solver. And be a programmer to solve the problems. “Be a programmer”
+<h4> "Don't be a programmer, be a problem solver. And be a programmer to solve the problems. Be a programmer" </h4>
