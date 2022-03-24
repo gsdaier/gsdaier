@@ -18,7 +18,7 @@
 
 > I am able to communicate in English
 
-> I'm passionate about knowing how things work
+> I'm passionate about knowing how things work 🏆
 ```
   
 [![Facebook Badge](https://img.shields.io/badge/-Gustavo_Daier-292929?style=for-the-badge&labelColor=292929&logo=instagram&logoColor=white&link=https://instagram.com/)](https://www.instagram.com/g_daier/?hl=pt-br) 
