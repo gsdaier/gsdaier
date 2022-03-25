@@ -8,13 +8,11 @@
 > I'm 19 years old
 
 > I've worked on projects using:
-{ React, Javascript, Node.js, Html, CSS, Sass, Styled-components }
+{ React, Javascript, Node.js, Html, CSS, Sass }
 
 > I became a software engineer, I'm studying software engineering
 
-> CSS styling with Styled-components and Sass
-
-> I know about SQL, PHP, C# too
+> I know about Git, SQL, PHP, C# too
 
 > I am able to communicate in English
 
