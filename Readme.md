@@ -3,7 +3,7 @@
 <p> 👻 Hello world, Welcome 👻</p>
 
 ```
-> I'm a Frontend Web Developer
+> I'm a Web Developer
 
 > I'm 19 years old
 
@@ -12,7 +12,7 @@
 
 > I became a software engineer, I'm studying software engineering
 
-> I know about Git, SQL, PHP, C# too
+> I know about Git, SQL, PHP, C#, C/C++ too
 
 > I am able to communicate in English
 
