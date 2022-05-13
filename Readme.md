@@ -14,6 +14,8 @@
 
 > I know about Git, SQL, PHP, C#, C/C++ too
 
+> Learning more about Algorithm and Programming Logic
+
 > I am able to communicate in English
 
 > I'm passionate about knowing how things work 🏆
