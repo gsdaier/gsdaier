@@ -5,18 +5,16 @@
 ```
 > I'm a Web Developer
 
-> I'm 19 years old
+> I'm 20 years old
 
 > I've worked on projects using:
 { React, Javascript, Node.js, Html, CSS, Sass }
 
 > I became a software engineer, I'm studying software engineering
 
-> I know about Git, SQL, PHP, C#, C/C++ too
-
-> Learning more about Algorithm and Programming Logic
-
 > I am able to communicate in English
+
+> I have knowledge in C#, SQL, TypeScript
 
 > I'm passionate about knowing how things work 🏆
 ```
